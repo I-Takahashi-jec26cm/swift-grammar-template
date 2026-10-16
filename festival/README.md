@@ -16,7 +16,10 @@ CPU対戦だけでなくリアルタイム対戦も実装予定
 
 ## 画面
 
-（スクリーンショットを貼る。GitHub の編集画面に画像をドラッグ＆ドロップすると貼れます。）
+（スクリーンショットを貼る。GitHub の編集画面に画像をドラッグ＆ドロップすると貼れます。）![Uploading Simulator Screenshot - iPhone 17 - 2026-10-16 at 16.38.31.png…]()
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-10-16 at 16 38 27" src="https://github.com/user-attachments/assets/4bf467b9-8eab-4b0a-a9de-850014464a56" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-10-16 at 16 38 21" src="https://github.com/user-attachments/assets/23c31fcb-2924-4ed7-a777-201f1aa03ab1" />
+
 
 ## 使った文法・技術
 
